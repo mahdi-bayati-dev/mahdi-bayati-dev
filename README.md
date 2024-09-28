@@ -19,7 +19,7 @@ I'm focused on improving my **React** skills to build more interactive and advan
 - Telegram: [@MAHDIBAT](https://t.me/MAHDIBAT)
 - Email: [mad.bayati@com](mailto:mad.bayati@com)
 
-## 🌟 Projects
+## 🌟 
 Soon, you'll find some of my recent projects and contributions here!
 
 ---
