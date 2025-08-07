@@ -12,7 +12,7 @@ I thrive on challenges and love exploring new technologies to enhance my develop
 - ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS**
 - ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) **JavaScript**
 - ⚛️ **React** (proficient)
-- ⚡ **Next.js** (currently learning)
+- ⚡ **Next.js** 
 - 🎨 **Tailwind CSS** (for rapid styling)
 - 🔥 **REST API & Fetching Data**
 - ⚙️ **Git & GitHub**
@@ -21,6 +21,8 @@ I thrive on challenges and love exploring new technologies to enhance my develop
 I'm focused on mastering **Next.js** to build **server-side rendered** and **static site generated** applications for better performance and SEO.
 
 ## 📂 My Projects
+https://mahdi-bayati.ir/
+https://coffee-shope-next.vercel.app/
 https://sanihe.ir/
 
 ## 📫 How to Reach Me
