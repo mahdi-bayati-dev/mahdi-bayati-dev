@@ -22,7 +22,9 @@ I'm focused on mastering **Next.js** to build **server-side rendered** and **sta
 
 ## 📂 My Projects
 https://mahdi-bayati.ir/
+
 https://coffee-shope-next.vercel.app/
+
 https://sanihe.ir/
 
 ## 📫 How to Reach Me
