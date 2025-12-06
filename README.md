@@ -3,37 +3,54 @@
 ![Profile views](https://komarev.com/ghpvc/?username=mahdi-bayati-dev&color=brightgreen)
 
 ## 👨‍💻 About Me
-I'm **Mahdi Bayati**, a passionate **frontend developer** from Lorestan, Iran. I specialize in **HTML**, **CSS**, and **JavaScript**, and I have mastered **React**. Currently, I'm expanding my expertise by learning **Next.js** to build high-performance web applications. 🚀
+I am a passionate **Front-End Developer** based in Iran, specializing in **React.js** and **Next.js**. 
 
-I thrive on challenges and love exploring new technologies to enhance my development skills. My goal is to create seamless and efficient web experiences that users love! 💡
+With a strong focus on **Scalability**, **SEO**, and **Performance**, I build modern web applications that are not only visually appealing but also architecturally sound. My experience ranges from developing pure Next.js applications to integrating Front-End architectures with backends like **Laravel**.
 
-## 🚀 Skills & Tools
-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) **HTML**
-- ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) **CSS**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) **JavaScript**
-- ⚛️ **React** (proficient)
-- ⚡ **Next.js** 
-- 🎨 **Tailwind CSS** (for rapid styling)
-- 🔥 **REST API & Fetching Data**
-- ⚙️ **Git & GitHub**
+I am committed to writing **clean, modular, and standard code**, ensuring that every project is maintainable and optimized for the best user experience.
 
-## 📚 Currently Learning
-I'm focused on mastering **Next.js** to build **server-side rendered** and **static site generated** applications for better performance and SEO.
+## 🛠 Development Philosophy
+I don't just write code; I build solutions based on standards:
+- **Modular Architecture:** Reusable components and clean directory structures.
+- **Clean Code:** Writing readable and maintainable code with proper commenting.
+- **Performance & SEO:** Utilizing SSR and SSG capabilities of Next.js for maximum speed and visibility.
+- **Continuous Learning:** Keeping up with the latest web technologies and best practices daily.
 
-## 📂 My Projects
-https://mahdi-bayati.ir/
+## 🚀 Tech Stack
 
-https://coffee-shope-next.vercel.app/
+**Languages & Core:**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-Standard-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-Modern-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-https://sanihe.ir/
+**Frameworks & Libraries:**
+<p>
+  <img src="https://img.shields.io/badge/Next.js-13+-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-Styling-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+</p>
 
-## 📫 How to Reach Me
-- 🔗 LinkedIn: [Mahdi Bayati](https://www.linkedin.com/in/mahdi-bayati-4a570131a)
-- ✉️ Telegram: [@MAHDIBAT](https://t.me/MAHDIBAT)
-- 📧 Email: [mad.bayati@com](mailto:mad.bayati@com)
+**Tools & Workflow:**
+<p>
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/REST_API-Integration-005C84?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
-## 🌟 Let's Connect!
-I'm always open to collaborations, learning opportunities, and discussing exciting projects. If you're passionate about **frontend development**, let's connect and build something amazing together! 🚀
+
+## 📚 Currently Exploring
+- Advanced **Next.js Patterns** (App Router, Server Actions).
+- Deep diving into **Web Performance Optimization (Core Web Vitals)**.
+- Enhancing SEO strategies for Single Page Applications (SPAs).
+
+## 📫 Connect with Me
+- 🔗 **LinkedIn:** [Mahdi Bayati](https://www.linkedin.com/in/mahdi-bayati-4a570131a)
+- ✉️ **Telegram:** [@MAHDIBAT](https://t.me/MAHDIBAT)
+- 📧 **Email:** [mad.bayati@com](mailto:mad.bayati@com)
 
 ---
-Thanks for visiting my profile! 😊
+<p align="center">
+  <i>"Simplicity is the soul of efficiency."</i>
+</p>
